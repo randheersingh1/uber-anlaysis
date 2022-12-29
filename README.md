@@ -1,2 +1,4 @@
 # uber anlaysis
- uber analysis is analysis people are taking uber as round trip or single trip 
+Checking and filling missing values
+Building visuals for different categories for trip and round or single trip
+analysis distance of trip and reason of trip
